@@ -1,3 +1,3 @@
-# Face-detection-using-MTCNN
-face detection using mtcnn complete implementation
+
+face detection using mtcnn 
 
